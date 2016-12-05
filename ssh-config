@@ -1,0 +1,7 @@
+Host git*
+  User git
+
+Host *
+  KeepAlive yes
+  HashKnownHosts no
+  ForwardAgent yes
